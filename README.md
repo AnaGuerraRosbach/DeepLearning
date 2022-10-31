@@ -1,4 +1,4 @@
-# DeepLearning
+# DeepLearning_SentimentClassification
 DeepLearnig course
 
 1st assignment Deep Learning course Potsdam University.
